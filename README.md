@@ -58,4 +58,4 @@ data for fraud detection.
 
 
 P.S please have a look at the presentation for a better understanding of the code and the implementation of graphs.
-the data set is of 1026 entries and from kaggle
+The data set is of 1026 entries and from kaggle. The graphs in the code have been commented out if you want to view them you can.
